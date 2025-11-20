@@ -1,1 +1,2 @@
-"Esta l¡nea provocar  conflicto" 
+Esta línea provocará conflicto
+Esta línea provocará conflicto diferente
